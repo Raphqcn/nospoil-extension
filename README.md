@@ -9,7 +9,7 @@
 
 ## 📌 Présentation
 
-**SpoilerShield** est une extension web conçue pour protéger les utilisateurs contre les divulgâches (spoilers) de séries, films, jeux vidéo ou événements sportifs sur leurs réseaux sociaux et sites préférés (YouTube, Twitter/X, Reddit, Facebook, sites d'actualités...).
+**Extension web conçue pour protéger les utilisateurs contre les divulgâches (spoilers) de séries, films, jeux vidéo ou événements sportifs sur leurs réseaux sociaux et sites préférés (YouTube, Twitter/X, Reddit, Facebook, sites d'actualités...).
 
 Grâce à un système d'analyse en temps réel du DOM, l'extension floute instantanément les éléments contenant vos tags sensibles tout en vous laissant la possibilité de **déflouter un contenu d'un simple clic ou survol** si vous souhaitez le révéler.
 
@@ -37,12 +37,3 @@ Grâce à un système d'analyse en temps réel du DOM, l'extension floute instan
 | **UI & Style** | **HTML5 & CSS3** | Interface du popup et filtres CSS de floutage (`backdrop-filter` / `filter`) |
 
 ---
-
-## 🚀 Installation pour Tester en Local (Mode Dev)
-
-Puisque l'extension est encore en phase de développement et pas encore publiée sur les stores officiels, vous pouvez l'essayer en local :
-
-### Sur Chrome / Edge / Brave / Opera :
-1. Téléchargez ou clonez ce dépôt sur votre machine :
-   ```bash
-   git clone [https://github.com/votre-username/spoilershield.git](https://github.com/votre-username/spoilershield.git)
